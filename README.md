@@ -1,1 +1,2 @@
 # ModelValidator
+Introducing ModelValidator, the essential add-on for Blender users seeking real-time mesh validation. This powerful tool is designed to streamline your workflow by seamlessly validating meshes on the fly. ModelValidator's key feature is its ability to identify and highlight triangles, ngons, and more in real-time, ensuring that your 3D models meet the highest standards of quality and precision. 
